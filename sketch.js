@@ -64,7 +64,7 @@ function draw() {
 
 function keyPressed() {
  if (keyDown = DOWN_ARROW) {
-	packageSprite.velocityX=10
+	packageSprite.velocityX=3
   }
 }
 
